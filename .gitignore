@@ -5,5 +5,4 @@ public/
 db.json
 *.log
 .deploy_git*/
-.idea
-themes/*/.git 
+.idea 

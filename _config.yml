@@ -112,6 +112,7 @@ theme_config:
     about: /about/
     articles: /archives/
     blog: /blog/
+    photos: /photos/
   
   social_links:
     -
@@ -123,3 +124,25 @@ theme_config:
     post_count: 5
   
   highlight: monokai  # code highlighting scheme
+
+# PhotoSwipe config
+photoswipe:
+  # Enable PhotoSwipe on all img tags
+  enable: true
+  # Custom selector to apply PhotoSwipe
+  # e.g. 'img.photo' to apply to images with 'photo' class only
+  selector: '.gallery-photo'
+  # PhotoSwipe options (https://photoswipe.com/documentation/options.html)
+  options:
+    # Show image caption
+    captionEl: true
+    # Show fullscreen button
+    fullscreenEl: true
+    # Show zoom button
+    zoomEl: true
+    # Show share button
+    shareEl: false
+    # Counter for image numbers
+    counterEl: true
+    # Show arrows for navigation
+    arrowEl: true

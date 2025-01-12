@@ -124,10 +124,3 @@ theme_config:
     post_count: 5
   
   highlight: monokai  # code highlighting scheme
-
-# PhotoSwipe config
-photoswipe:
-  enable: true
-  selector: '.gallery-photo'
-  options:
-    shareEl: false

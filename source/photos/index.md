@@ -5,9 +5,9 @@ layout: page
 ---
 
 <div class="gallery-grid">
-  <img class="gallery-photo" src="/images/photo1.jpg" alt="Image Title 1">
-  <img class="gallery-photo" src="/images/photo2.jpg" alt="Image Title 2">
-  <img class="gallery-photo" src="/images/photo3.jpg" alt="Image Title 3">
+  <img class="gallery-photo" src="/images/photo-1.jpg" alt="Prospect Park 1">
+  <img class="gallery-photo" src="/images/photo-2.jpg" alt="Prospect Park 2">
+  <img class="gallery-photo" src="/images/photo-3.jpg" alt="Prospect Park 3">
 </div>
 
 <style>
